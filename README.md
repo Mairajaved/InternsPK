@@ -5,4 +5,5 @@
 <h3>Description</h3>
 <p>As a Front End Developer Intern, I have the opportunity to work on real-world projects and gain hands-on experience in building user interfaces and web applications.i have a chance to collaborate with a team of experienced developers, designers, and project managers to create engaging and responsive web experiences.</p>
 <h4>Project: HTML/CSS Conversion</h4>
+<p>I converted a Figma design into a functional HTML and CSS layout, faithfully replicating the original design's elements and styles. Using HTML tags and CSS styling, I ensured pixel-perfect representation and responsiveness across devices. The result is a visually appealing and interactive web layout that matches the Figma design.</p>
 check it ou by live link : [Project: HTML/CSS Conversion](https://mairajaved.github.io/InternsPK/LOGIN%20transformation/)

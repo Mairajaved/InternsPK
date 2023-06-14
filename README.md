@@ -8,5 +8,5 @@
 <p>I converted a Figma design into a functional HTML and CSS layout, faithfully replicating the original design's elements and styles. Using HTML tags and CSS styling, I ensured pixel-perfect representation and responsiveness across devices. The result is a visually appealing and interactive web layout that matches the Figma design.</p>
 check it ou by live link : [Project: HTML/CSS Conversion](https://mairajaved.github.io/InternsPK/LOGIN%20transformation/)
 <h4>Project no 2: Responsive Design Conversion: Widget Challenge</h4>
-<p>in this i converted this html structure using  HTML/CSS/Responsive Design skills to convert the design to a responsive version.and responsive layout based on the requirements set: https://jsfiddle.net/internsch/my8ugL5k/</p>
+<p>in this i converted this html structure using  HTML/CSS/Responsive Design skills to convert the design to a responsive version.and responsive layout based on the requirements</p>
 <p>check live project : https://mairajaved.github.io/InternsPK/Responsive%20Design%20Conversion/ </p>
